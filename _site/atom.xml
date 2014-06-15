@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Vokoiva</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2014-04-22T23:50:31-05:00</updated>
+ <id></id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Sideline Fences</title>
+   <link href="/sideline-fences"/>
+   <updated>2014-04-22T00:00:00-05:00</updated>
+   <id>/sideline-fences</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7114/13971855141_b4894145ef_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lone Pole Crossing</title>
+   <link href="/lone-pole-crossing"/>
+   <updated>2014-04-22T00:00:00-05:00</updated>
+   <id>/lone-pole-crossing</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7456/13996061643_41a9f516bd_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lakefront Overgrowth</title>
+   <link href="/lakefront-overgrowth"/>
+   <updated>2014-04-22T00:00:00-05:00</updated>
+   <id>/lakefront-overgrowth</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5077/13995028693_aa6b0eec27_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shaded Sidewalk Shed</title>
+   <link href="/shaded-sidewalk-shed"/>
+   <updated>2014-04-12T00:00:00-05:00</updated>
+   <id>/shaded-sidewalk-shed</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3735/13813756454_c09c1776c5_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fenced Brush</title>
+   <link href="/fenced-brush"/>
+   <updated>2014-04-12T00:00:00-05:00</updated>
+   <id>/fenced-brush</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3787/13813444483_aa994fe443_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Green Belt Horizon</title>
+   <link href="/green-belt-horizon"/>
+   <updated>2014-04-07T00:00:00-05:00</updated>
+   <id>/green-belt-horizon</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5331/13719938595_07fc27a71e_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tool Shed Shoes</title>
+   <link href="/tool-shed-shoes"/>
+   <updated>2014-04-01T00:00:00-05:00</updated>
+   <id>/tool-shed-shoes</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3741/13719789563_0b1ffe0ff7_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ten Acre Sidewalk</title>
+   <link href="/ten-acre-sidewalk"/>
+   <updated>2014-04-01T00:00:00-05:00</updated>
+   <id>/ten-acre-sidewalk</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7145/13720154164_e30b0cd2cb_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Green Belt Bayou</title>
+   <link href="/green-belt-bayou"/>
+   <updated>2014-04-01T00:00:00-05:00</updated>
+   <id>/green-belt-bayou</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2890/13720151454_412bb9d544_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fence Side Lawn</title>
+   <link href="/fence-side-lawn"/>
+   <updated>2014-04-01T00:00:00-05:00</updated>
+   <id>/fence-side-lawn</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3785/13719795783_2ca229983b_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ranchside Vista</title>
+   <link href="/ranchside-vista"/>
+   <updated>2014-02-28T17:01:35Z</updated>
+   <id>/ranchside-vista</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7456/12843319825_12a6d1810f_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Weed Eating Supplies</title>
+   <link href="/weed-eating-supplies"/>
+   <updated>2014-02-28T17:01:33Z</updated>
+   <id>/weed-eating-supplies</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3712/12843749954_0ab8093fc5_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hillside Horizon</title>
+   <link href="/hillside-horizon"/>
+   <updated>2014-02-18T19:04:17Z</updated>
+   <id>/hillside-horizon</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7387/12623857233_e09654f357_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Backyard Bungalow</title>
+   <link href="/backyard-bungalow"/>
+   <updated>2014-02-18T19:04:17Z</updated>
+   <id>/backyard-bungalow</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3719/12624189024_b96b72ded4_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Big Twig Pile</title>
+   <link href="/big-twig-pile"/>
+   <updated>2013-11-17T00:00:00-06:00</updated>
+   <id>/big-twig-pile</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7351/10909627825_f58855b53d_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tool Shed Clutter</title>
+   <link href="/tool-shed-clutter"/>
+   <updated>2013-10-29T00:00:00-05:00</updated>
+   <id>/tool-shed-clutter</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7455/10563716353_c869f9f659_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Field Fences</title>
+   <link href="/field-fences"/>
+   <updated>2013-10-29T00:00:00-05:00</updated>
+   <id>/field-fences</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3716/10563466216_6f812b8066_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Back to the Bayou</title>
+   <link href="/back-to-the-bayou"/>
+   <updated>2013-10-26T00:00:00-05:00</updated>
+   <id>/back-to-the-bayou</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5521/10465040356_1101821df5_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unbottled Branch</title>
+   <link href="/unbottled-branch"/>
+   <updated>2013-10-21T00:00:00-05:00</updated>
+   <id>/unbottled-branch</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7365/10409847654_454b73e5ca_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dead End Ditch Pass</title>
+   <link href="/dead-end-ditch-pass"/>
+   <updated>2013-10-17T00:00:00-05:00</updated>
+   <id>/dead-end-ditch-pass</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3794/10317851263_fbc60ff575_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Suburban Desert</title>
+   <link href="/suburban-desert"/>
+   <updated>2013-10-11T00:00:00-05:00</updated>
+   <id>/suburban-desert</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7327/10076243974_556ff47c82_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I &lt;em&gt;see&lt;/em&gt; the plants.&lt;/p&gt;
+
+&lt;p&gt;I &lt;em&gt;see&lt;/em&gt; their cars.&lt;/p&gt;
+
+&lt;p&gt;I &lt;em&gt;see&lt;/em&gt; the buildings.&lt;/p&gt;
+
+&lt;p&gt;And I &lt;em&gt;see&lt;/em&gt; their scars.&lt;/p&gt;
+
+&lt;p&gt;But, I don’t always &lt;em&gt;see the people&lt;/em&gt;…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sideline Perspective</title>
+   <link href="/sideline-perspective"/>
+   <updated>2013-10-11T00:00:00-05:00</updated>
+   <id>/sideline-perspective</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5520/10044324785_dc38a79b05_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Powerline Walk</title>
+   <link href="/powerline-walk"/>
+   <updated>2013-10-11T00:00:00-05:00</updated>
+   <id>/powerline-walk</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8125/10177597285_19760fa090_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Patio Lattice</title>
+   <link href="/patio-lattice"/>
+   <updated>2013-10-11T00:00:00-05:00</updated>
+   <id>/patio-lattice</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5513/10044278804_173e0f2111_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ditch Side Rockslide</title>
+   <link href="/ditch-side-rockslide"/>
+   <updated>2013-10-11T00:00:00-05:00</updated>
+   <id>/ditch-side-rockslide</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm3.staticflickr.com/2832/10159126394_b03dd14dcc_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cool Tool Shed</title>
+   <link href="/cool-tool-shed"/>
+   <updated>2013-10-11T00:00:00-05:00</updated>
+   <id>/cool-tool-shed</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7305/10104824225_8572933b68_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Weed Eaten Bird</title>
+   <link href="/weed-eaten-bird"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/weed-eaten-bird</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7355/9045500714_31e33f6a80_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unfinished Trails</title>
+   <link href="/unfinished-trails"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/unfinished-trails</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8511/8424271077_1a4edf236c_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Trash Bin Stop</title>
+   <link href="/trash-bin-stop"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/trash-bin-stop</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7447/9777147331_184a8191c4_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thinking Woman Pose Two</title>
+   <link href="/thinking-woman-pose-two"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/thinking-woman-pose-two</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8498/8424418409_126b12d628_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thinking Woman Pose One</title>
+   <link href="/thinking-woman-pose-one"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/thinking-woman-pose-one</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8494/8425508614_03192c18d4_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Self Study One</title>
+   <link href="/self-study-one"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/self-study-one</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8507/8557410145_41b320514c_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Plastic Plant Two</title>
+   <link href="/plastic-plant-two"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/plastic-plant-two</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7460/9678419643_4fc5a24fcc_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Plastic Plant</title>
+   <link href="/plastic-plant"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/plastic-plant</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2880/9678554119_e4484d7a06_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Looking Forward</title>
+   <link href="/looking-forward"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/looking-forward</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8386/8557411351_5e1faa1abf_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Groundscrapers</title>
+   <link href="/groundscrapers"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/groundscrapers</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8112/8489461251_290c12422c_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Green Belt Lines</title>
+   <link href="/green-belt-lines"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/green-belt-lines</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7395/9826333616_b253114b5f_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Garden Shrine</title>
+   <link href="/garden-shrine"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/garden-shrine</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8257/8682030750_25b234e8d1_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fence Lines</title>
+   <link href="/fence-lines"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/fence-lines</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3781/8849208886_f197075a92_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Emperors Chair</title>
+   <link href="/emperors-chair"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/emperors-chair</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8522/8558608740_feae9b600e_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bottled Up Weeds Non Colored</title>
+   <link href="/bottled-up-weeds-non-colored"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/bottled-up-weeds-non-colored</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7423/9016087597_c29a33ba67_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bottled Up Weeds Colored</title>
+   <link href="/bottled-up-weeds-colored"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/bottled-up-weeds-colored</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3776/9017277574_175b70d52a_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Back at the Wrokbench</title>
+   <link href="/back-at-the-wrokbench"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/back-at-the-wrokbench</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8232/8490562568_308dd6fa23_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Air Conditioned Tree</title>
+   <link href="/air-conditioned-tree"/>
+   <updated>2013-09-23T00:00:00-05:00</updated>
+   <id>/air-conditioned-tree</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3671/9732452713_394192a5f3_c.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

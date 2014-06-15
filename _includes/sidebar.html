@@ -1,0 +1,54 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>{{ site.title }}</h1>
+    <p class="lead">{{ site.description }}</p> 
+    </div>
+
+
+    <ul class="sidebar-nav">
+    
+     <li class="sidebar-nav-item ">
+     {% include search.html %}
+      </li>
+    
+      <li class="sidebar-nav-item ">
+        <a href="/">Home</a>
+      </li>
+      
+    <!--  <li class="sidebar-nav-item"><a href="/blog">Blog</a></li> -->
+      
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <li class="sidebar-nav-item">
+              <a href="{{ node.url }}">{{ node.title }}</a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+        
+        <li class="sidebar-nav-item"><a href="/archive">Archive</a></li>
+        
+     <!-- <li class="sidebar-nav-item"><a href="{{ site.url }}/tags.html#">Tags</a></li> -->
+        
+       <!-- <li class="sidebar-nav-item"><a href="/categories.html">Categories</a></li> -->
+       
+         <li class="sidebar-nav-item"><a href="vokoiva@openmailbox.org">Contact</a></li> 
+         
+         <li class="sidebar-nav-item-2"><a href="#"><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="http://i.imgur.com/1SLcBC0.png"/></a></a></li> 
+       
+       <!-- <li class="sidebar-nav-item"><a href="/atom.xml">Feed</a></li> -->
+
+     <!-- <li class="sidebar-nav-item">Currently v{{ site.version }}</li> -->
+    </ul>
+
+   <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+  </div>
+</div>

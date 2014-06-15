@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink: /:title
+
+# Setup
+title:            Vokoiva
+#tagline:          'A Jekyll theme'
+description:      'Drawings of J Amos'
+keywords: 'Vokoiva, Drawing, Sketch, Ink'
+
+user: 'Moika'
+
+ftp_host: 'vokoiva.com'
+ftp_dir: '/home/vokoiva1/public_html/'
+ftp_passive: false
+
+# optional
+#ftp_port: 21                  # default 21
+ftp_username: 'vokoiva1'     # default read from stdin
+ftp_password: '94zXnBu62o' # default read from stdin
+  
+  
+
