@@ -4,7 +4,7 @@
  <title>Vokoiva</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2014-10-02T16:49:38-05:00</updated>
+ <updated>2014-11-17T10:33:36-06:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -13,11 +13,29 @@
 
  
  <entry>
+   <title>Parked Park Hoops</title>
+   <link href="/parked-park-hoops"/>
+   <updated>2014-10-05T00:00:00-05:00</updated>
+   <id>/parked-park-hoops</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/COiJYieCRD9C.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Back To The Cul-de-sac</title>
+   <link href="/back-to-the-cul-de-sac"/>
+   <updated>2014-10-05T00:00:00-05:00</updated>
+   <id>/back-to-the-cul-de-sac</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/OWRWuLcPF2OG.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Natural Medicine</title>
    <link href="/natural-medicine"/>
    <updated>2014-10-02T00:00:00-05:00</updated>
    <id>/natural-medicine</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/fsLAa-WrcKkZ.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/4DVoOKmowiCK.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -31,11 +49,11 @@
  </entry>
  
  <entry>
-   <title>Natural Medicine</title>
+   <title>Fenced Forest</title>
    <link href="/fenced-forest"/>
    <updated>2014-10-02T00:00:00-05:00</updated>
    <id>/fenced-forest</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/_uRsalLSmSj3.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/YxvvJSGNm5yo.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -44,7 +62,7 @@
    <link href="/hidden-meadow"/>
    <updated>2014-09-27T00:00:00-05:00</updated>
    <id>/hidden-meadow</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/WUrcivEQJpAW.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/tPDuI3-jTo2Y.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -53,7 +71,7 @@
    <link href="/field-of-play"/>
    <updated>2014-09-27T00:00:00-05:00</updated>
    <id>/field-of-play</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/Lp2hH5mn9nM8.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/-gSPAdD8b0x0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -62,7 +80,7 @@
    <link href="/cicada-empress-vertical"/>
    <updated>2014-09-27T00:00:00-05:00</updated>
    <id>/cicada-empress-vertical</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/yGOdqb0quNz1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/7urFjZVPAmyO.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -71,7 +89,7 @@
    <link href="/cicada-empress"/>
    <updated>2014-09-27T00:00:00-05:00</updated>
    <id>/cicada-empress</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/OwQV4cNXPXeR.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/6JInHlnDfV9s.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -80,7 +98,7 @@
    <link href="/cicada-emprerors"/>
    <updated>2014-09-27T00:00:00-05:00</updated>
    <id>/cicada-emprerors</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/aZGqXZesF9LP.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.mediacru.sh/99kHdvwOMAHE.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
