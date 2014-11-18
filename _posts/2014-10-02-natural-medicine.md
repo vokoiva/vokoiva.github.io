@@ -4,4 +4,4 @@ title: Natural Medicine
 date:  2014-10-02
 ---
 
-![](https://cdn.mediacru.sh/4DVoOKmowiCK.jpg)
+![](https://infinit.io/link/vokoiva/M2nLp2d.jpg)

@@ -4,4 +4,4 @@ title: Cicada Emperors
 date:  2014-09-27
 ---
 
-![](https://cdn.mediacru.sh/99kHdvwOMAHE.jpg)
+![](https://infinit.io/link/vokoiva/jSnW724.jpg)

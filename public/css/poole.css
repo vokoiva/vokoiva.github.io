@@ -86,15 +86,15 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 12px;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 13px;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 12px;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -108,7 +108,7 @@ p {
 }
 
 strong {
-  color: #000;
+  color: #A1A1A1;
 }
 
 
@@ -205,14 +205,14 @@ blockquote p:last-child {
 
 img {
 	position: center;
-	max-width: 115%;
-	max-height: 125%;
+/*	max-width: 115%; */
+/*	max-height: 125%; */
 	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
 	margin: auto;
-	box-shadow: 0 3px 6px rgba(0,0,0,0.9);
+/*	box-shadow: 0 3px 6px rgba(0,0,0,0.9); */
 }
 
 /* @media screen and (orientation: portrait) {
@@ -342,7 +342,7 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #A1A1A1;
+  color: #999;
 }
 
 /* Related posts */
