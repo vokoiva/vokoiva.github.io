@@ -60,7 +60,7 @@ html {
   
   height: 105%;
 }
-@media (min-width: 48rem) {
+@media (min-width: 58rem) {
   .sidebar {
     position: fixed;
     top: 0;
