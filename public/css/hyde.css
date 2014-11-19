@@ -57,6 +57,7 @@ html {
   text-align: center;
   padding: 2rem 0rem;
   background-color: #fff;
+  
   height: 105%;
 }
 @media (min-width: 48rem) {
@@ -65,7 +66,7 @@ html {
     top: 0;
     left: 0;
    /* bottom: 100px; */
-    width: 18rem;
+    width: 12rem;
     text-align: left;
   }
 }
