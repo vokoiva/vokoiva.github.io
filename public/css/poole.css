@@ -216,14 +216,14 @@ img {
 /*	box-shadow: 0 3px 6px rgba(0,0,0,0.9); */
 }
 
-/* @media screen and (orientation: portrait) {
+ @media screen and (orientation: portrait) {
   img { max-width: 90%; }
 
 }
 
 @media screen and (orientation: landscape) {
   img { max-height: 90%; }
-} */
+} 
 
 /* Tables */
 table {
