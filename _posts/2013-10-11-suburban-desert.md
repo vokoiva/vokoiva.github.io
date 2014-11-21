@@ -3,7 +3,7 @@ layout: post
 title: Suburban Desert
 date: 2013-10-11
 ---
-![](https://infinit.io/link/vokoiva/Tn4aUFK.jpg)
+![](https://infinit.io/link/vokoiva/f8XmXGX.jpg)
 
 I *see* the plants.
 
