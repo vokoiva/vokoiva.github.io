@@ -4,4 +4,4 @@ title: Floating Knolls
 date:  2014-06-24
 ---
 
-![](https://cdn.mediacru.sh/O2aHnJiUh61O.jpg)
+![](https://infinit.io/link/vokoiva/3c9ZPav.jpg)

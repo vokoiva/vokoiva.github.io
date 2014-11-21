@@ -4,4 +4,4 @@ title: Sign Line Fields
 date:  2014-07-06
 ---
 
-![](https://cdn.mediacru.sh/U0dn9AtFVPhS.jpg)
+![](https://infinit.io/link/vokoiva/P3CBVMx.jpg)

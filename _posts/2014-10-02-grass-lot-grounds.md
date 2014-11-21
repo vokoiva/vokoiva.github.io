@@ -4,4 +4,4 @@ title: Grass Lot Grounds
 date:  2014-10-02
 ---
 
-![](https://cdn.mediacru.sh/d7aS2PKyOiso.jpg)
+![](https://infinit.io/link/vokoiva/3hqyRDX.jpg)

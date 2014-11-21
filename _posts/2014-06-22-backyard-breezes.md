@@ -4,4 +4,4 @@ title: Backyard Breezes
 date:  2014-06-22
 ---
 
-![](https://cdn.mediacru.sh/9-ZuSoSCh3wW.jpg)
+![](https://infinit.io/link/vokoiva/3hAU2Qf.jpg)

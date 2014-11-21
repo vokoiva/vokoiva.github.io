@@ -4,5 +4,5 @@ title: Fenced Forest
 date:  2014-10-02
 ---
 
-![](https://cdn.mediacru.sh/OWqQN_Cth03h.jpg)
+![](https://infinit.io/link/vokoiva/3hqyRDX.jpg)
 
