@@ -4,4 +4,4 @@ title: Parked Park Hoops
 date:  2014-10-05
 ---
 
-![](https://cdn.mediacru.sh/v86EFUwsPAo7.jpg)
+![](https://infinit.io/link/vokoiva/3dpp5nR.jpg)
