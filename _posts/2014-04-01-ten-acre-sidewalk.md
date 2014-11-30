@@ -4,4 +4,4 @@ title: Ten Acre Sidewalk
 date:  2014-04-01
 ---
 
-![](https://farm8.staticflickr.com/7145/13720154164_e30b0cd2cb_c.jpg)
+![](https://infinit.io/link/vokoiva8/KG6BPmi.jpg)
